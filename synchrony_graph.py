@@ -125,11 +125,3 @@ def histogram(synchrony_data_file, uses_proximity, activity, log_scale=True):
 
     plt.tight_layout()
     plt.show()
-
-    
-    
-#graph("synchronicity_data_prox.csv", 'C:/Users/Marcus/Desktop/Studier/Projekt/correctid/PA_20201016T000000UTC.csv', 'C:/Users/Marcus/Desktop/Studier/Projekt/CowDistance-Project/data/barn.csv', uses_proximity=True, activity="all", threshold=0.1)
-
-histogram("synchronicity_data_prox.csv", uses_proximity=True, activity="all")
-
-#'C:/Users/Marcus/Desktop/Studier/Projekt/correctid/PA_20201016T000000UTC.csv', 'C:/Users/Marcus/Desktop/Studier/Projekt/CowDistance-Project/data/barn.csv'
