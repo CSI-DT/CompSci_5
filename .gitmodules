@@ -1,0 +1,3 @@
+[submodule "pycowview"]
+	path = pycowview
+	url = https://github.com/CSI-DT/pycowview
